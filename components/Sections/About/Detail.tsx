@@ -32,7 +32,7 @@ type ISkillSetModal = {
 const Detail = ({ onOpen }: ISkillSetModal) => {
   const emphasis = useColorModeValue('teal.500', 'cyan.200')
   const currentYear = new Date().getFullYear()
-  const professionalYears = currentYear - 2016
+  const professionalYears = currentYear - 2022
 
   return (
     <Stack
@@ -51,8 +51,8 @@ const Detail = ({ onOpen }: ISkillSetModal) => {
         What i do.
       </Heading>
       <Text variant="description">
-        I`ve been coding professionally for {professionalYears} years now and
-        currently working as a <b>Software Engineer</b> that focuses on{' '}
+        I`ve been coding for {professionalYears} years now and
+        currently working as a <b>Freelancer</b> that focuses on{' '}
         <b>architecture</b>, <b>APIs</b>,{' '}
         <Tooltip
           label="Ha!. Or more accurately TECH DEBT"
