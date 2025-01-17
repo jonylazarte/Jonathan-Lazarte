@@ -46,8 +46,7 @@ const FeaturedWorksSection = () => {
             idx={1}
             title="Pokemon Simulator"
             src="/works/pokemon-simulator.png"
-            description="Japanese social media platform for travelers to show off their
-          adventure to the world. I was incharge of Front end integration, made using React, Antd and Styled Components."
+            description="Real-time Pokemon Pvp simulator created with React and Socket.IO. With a whole Api system together with MongoDb that also allows you to store and improve your pokémon"
             height={{ base: '130px', md: '225px', '2xl': '300px' }}
             ctaUrl="https://pokemon-league.vercel.app"
             objectPosition="right 20%"
