@@ -138,32 +138,6 @@ export const Skills: {
       icon: SiGooglecloud,
     },*/
   ],
-  cicd: [
-    {
-      name: 'Docker',
-      icon: SiDocker,
-    },
-    /*{
-      name: 'GCP',
-      icon: SiGooglecloud,
-    },
-    {
-      name: 'CPanel',
-      icon: SiCpanel,
-    },
-    {
-      name: 'Rancher',
-      icon: SiRancher,
-    },
-    {
-      name: 'GitlabCICD',
-      icon: SiGitlab,
-    },
-    {
-      name: 'Buildkite',
-      icon: BsQuestionSquare,
-    },*/
-  ],
   'ui frameworks': [
     {
       name: 'Styled Components',
