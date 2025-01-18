@@ -115,7 +115,7 @@ const Sidebar = () => {
               {' '}
               Thank you!
             </Text>
-            <br />I am software engineer that specializes at backend apis, front
+            <br />I am web developer that specializes at backend apis, front
             end integration, recently found myself studying UX too.
           </MotionText>
           <MotionButton
@@ -128,7 +128,7 @@ const Sidebar = () => {
             width="120px"
             variants={simpleOpacity}
             as={'a'}
-            href="mailto:marcjhon18@gmail.com"
+            href="mailto:lazartejonathan10@gmail.com"
             target="_blank"
             whileHover={{ scale: 1.1 }}
             whileTap={{ scale: 0.9 }}
