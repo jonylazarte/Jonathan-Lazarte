@@ -147,6 +147,7 @@ const FeaturedCard = ({
       opacity={0.75}
       whileHover={variants.hover}
       whileTap={variants.tap}
+      margin="auto"
       fallback={<Skeleton height={height} width="100%" />}
     />
   )
